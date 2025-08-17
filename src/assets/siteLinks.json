@@ -8,5 +8,15 @@
     "icon": "Fire",
     "name": "今日热榜",
     "link": "https://hotnews.752132.xyz/"
+  },
+  {
+    "icon": "Tv",
+    "name": "影视站",
+    "link": "https://tv.752132.xyz/"
+  },
+  {
+    "icon": "Images",
+    "name": "图床",
+    "link": "https://tp.752132.xyz/"
   }
 ]
